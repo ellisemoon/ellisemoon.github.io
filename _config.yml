@@ -5,17 +5,17 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : 
   description                  : >
-                               this should contain a proper description
+                               page built off the dactl theme
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/Question_mark_grey.svg.png" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
-  hero_layout                : true # turn on hero layout for blog and posts
+  hero_layout                : false # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
-  excerpts                   : true # show excerpts instead of full post content on blog page
+  excerpts                   : false # show excerpts instead of full post content on blog page
   inline_footnotes           : true # enable/disable barefoot inline footnotes
   titles_only                : false # show post titles only on main blog page
 
@@ -26,11 +26,11 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Ellise Moon
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
+  mail                      : ellise.moon@rochester.edu # change to your e-mail address
+  twitter                   : @eclairemoon
+  github                    : @eclairemoon
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
