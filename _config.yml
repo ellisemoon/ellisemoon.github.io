@@ -5,9 +5,8 @@ url                          : "http://eclairemoon.github.io" # the base hostnam
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : 
-  description                  : >
-                               page built off the dactl theme, content
+  title                      : Yeet
+  #description                  : >
 
 # Layout configuration
   logo_path                  : "uploads/profile.jpg" # path to logo file
