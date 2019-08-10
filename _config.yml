@@ -1,22 +1,21 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/ellisemoon/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
+url                          : "http://eclairemoon.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
   title                      : 
   description                  : >
-                               page built off the dactl theme
+                               page built off the dactl theme, content
 
 # Layout configuration
   logo_path                  : "assets/img/Question_mark_grey.svg.png" # path to logo file
-  search_path                : # "yourgitusername.github.io"
-                               # needed for searchbox in archive page
+  search_path                : "eclairemoon.github.io" # needed for searchbox in archive page
   hero_layout                : false # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
   excerpts                   : false # show excerpts instead of full post content on blog page
-  inline_footnotes           : true # enable/disable barefoot inline footnotes
+  inline_footnotes           : false # enable/disable barefoot inline footnotes
   titles_only                : false # show post titles only on main blog page
 
 # Fonts
@@ -27,7 +26,7 @@ blog:
 # Author info
 author:
   fullname                  : Ellise Moon
-  rss                       : true # generate RSS feed and show it's icon in header
+  rss                       : false # generate RSS feed and show it's icon in header
   mail                      : ellise.moon@rochester.edu # change to your e-mail address
   twitter                   : eclairemoon
   github                    : eclairemoon
