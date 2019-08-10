@@ -20,6 +20,6 @@ published: true
 
 ## About Me 
 
-Master's student in Linguistics at the University of Rochester
+Master's student in Linguistics at the [University of Rochester](http://www.sas.rochester.edu/lin/).
 
 </div>
