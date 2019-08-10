@@ -1,5 +1,5 @@
 # Base blog settings
-baseurl                      : "/ellisemoon/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
 url                          : "http://eclairemoon.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
@@ -10,7 +10,7 @@ blog:
                                page built off the dactl theme, content
 
 # Layout configuration
-  logo_path                  : "assets/img/Question_mark_grey.svg.png" # path to logo file
+  logo_path                  : "uploads/profile.jpg" # path to logo file
   search_path                : "eclairemoon.github.io" # needed for searchbox in archive page
   hero_layout                : false # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -30,12 +30,12 @@ author:
   mail                      : ellise.moon@rochester.edu # change to your e-mail address
   twitter                   : eclairemoon
   github                    : eclairemoon
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
-  photo                     : "uploads/me2.png"
-  photo2x                   : "uploads/me.png"
+  #youtube                   : youtube-user-name
+  #stackoverflow             : stackoverflow-user-name
+  #disqus                    : dactl # your disqus site name
+  #google_analytics          : # 'UA-XXXXXXXX-X'
+  photo                     : "uploads/profile.jpg"
+  photo2x                   : "uploads/profile_smaller.jpg"
 
 
 
