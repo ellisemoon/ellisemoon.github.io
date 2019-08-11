@@ -9,7 +9,7 @@ published: true
 <div class="page" markdown="1">
 
 <center>
-<img alt="" src="eclairemoon.github.io/uploads/hammock.png" srcset="eclairemoon.github.io/uploads/hammock.png" width=500 height=200 /></center>
+<img alt="" src="uploads/hammock.png" srcset="uploads/hammock.png" width=500 height=200 /></center>
 
 ## About 
 
