@@ -2,7 +2,7 @@
 layout: page
 title: Secret Meme Stash
 permalink: /yeet/
-images:t
+images:uploads
 published: true
 ---
 
@@ -16,6 +16,4 @@ published: true
 
 <img src="uploads/descartes.jpg" srcset="uploads/descartes.jpg" />
 
-<img src="uploads/memeofallmemes.jpg" srcset="uploads/memeofallmemes.jpg" />
-
-</center>
+<img src="uploads/memeofallmemes.jpg" srcset="uploads/memeofallmemes.jpg" /></center>
