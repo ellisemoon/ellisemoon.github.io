@@ -5,7 +5,8 @@ permalink: /research/
 published: true
 ---
 
-<img src="uploads/canoe.png" width=500 height=200> 
+<center>
+<src="{{ page.images | relative_url }}canoe.png" srcset="{{ page.images | relative_url }}canoe.png" /></center>
 
 <div class="page" markdown="1">
 
