@@ -5,6 +5,8 @@ permalink: /research/
 published: true
 ---
 
+<img src="uploads/canoe.png" width=500 height=200> 
+
 <div class="page" markdown="1">
 
 ## Research 
