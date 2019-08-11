@@ -7,18 +7,9 @@ published: true
 
 <div class="page" markdown="1">
 
-{% capture page_subtitle %}
-<img
-    class="me"
-    alt="{{ author.name }}"
-    src="{{ site.author.photo | relative_url }}"
-    srcset="{{ site.author.photo2x | relative_url }} 2x"
-/>
-{% endcapture %}
-
-{% include page/title.html title=page.title subtitle=page_subtitle %}
-
 ## About Me 
+
+<img src="uploads/profile.jpg" width=200 height=200> 
 
 I am currently in my second year of the Master's program in General Linguisitics at the [University of Rochester](http://www.sas.rochester.edu/lin/). I received my BA from [Montana State University](http://www.montana.edu/) in English Literature, with a minor in French.
 
