@@ -5,7 +5,8 @@ permalink: /about/
 published: true
 ---
 
-<img src="uploads/hammock.png" width=500 height=200> 
+<center>
+<img src="uploads/hammock.png" srcset="uploads/hammock.png" width=500 height=200 /></center>
 
 <div class="page" markdown="1">
 
