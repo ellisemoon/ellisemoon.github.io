@@ -9,7 +9,7 @@ published: true
 <div class="page" markdown="1">
 
 <center>
-<img class="header" src="{{ page.images | relative_url }}canoe.jpg" srcset="{{ page.images | relative_url }}canoe.jpg" width=500 height=200 /></center>  
+<img src="uploads/canoe.png" srcset="uploads/canoe.png" width=500 height=200 /></center>
 
 ## Research 
 
