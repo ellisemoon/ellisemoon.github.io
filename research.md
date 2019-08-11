@@ -6,7 +6,7 @@ published: true
 ---
 
 <center>
-<src="uploads/canoe.png" srcset="uploads/canoe.png" width=500 height=200 /></center>
+<img src="uploads/canoe.png" srcset="uploads/canoe.png" width=500 height=200 /></center>
 
 <div class="page" markdown="1">
 
