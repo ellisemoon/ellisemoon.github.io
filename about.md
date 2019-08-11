@@ -11,7 +11,7 @@ published: true
 <center>
 <img src="uploads/hammock.png" srcset="uploads/hammock.png" width=500 height=200 /></center>
 
-## About Me 
+## About 
 
 I am currently in my second year of the Master's program in General Linguisitics at the [University of Rochester](http://www.sas.rochester.edu/lin/). I received my BA from [Montana State University](http://www.montana.edu/) in English Literature, with a minor in French.
 
