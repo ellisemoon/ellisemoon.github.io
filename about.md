@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
+<img src="uploads/hammock.png" width=500 height=200> 
+
 <div class="page" markdown="1">
 
 ## About Me 
-
-<img src="uploads/hammock.png" width=500 height=200> 
 
 I am currently in my second year of the Master's program in General Linguisitics at the [University of Rochester](http://www.sas.rochester.edu/lin/). I received my BA from [Montana State University](http://www.montana.edu/) in English Literature, with a minor in French.
 
