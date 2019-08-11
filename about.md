@@ -2,13 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+images: uploads
 published: true
 ---
 
+<div class="page" markdown="1">
+
 <center>
 <img src="uploads/hammock.png" srcset="uploads/hammock.png" width=500 height=200 /></center>
-
-<div class="page" markdown="1">
 
 ## About Me 
 
