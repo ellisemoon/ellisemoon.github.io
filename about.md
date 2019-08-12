@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-images: uploads
+images: uploads/
 published: true
 ---
 
