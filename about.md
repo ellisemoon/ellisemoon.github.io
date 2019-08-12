@@ -9,7 +9,8 @@ published: true
 <div class="page" markdown="1">
 
 <center>
-  <img src="uploads/hammock.png" srcset="uploads/hammock.png" width="500" height="200"/> ![](uploads/hammock.png) 
+  <img src="uploads/hammock.png" srcset="uploads/hammock.png" width="500" height="200"/>
+  <img src="{{ page.images | relative_url }}hammock.png" srcset="{{ page.images | relative_url }}hammock.png" width="500" height="200"/>
   <!--![Hammock](hammock.png){:width="500" :height="200"}-->
 </center>
 
