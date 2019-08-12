@@ -16,4 +16,4 @@ published: true
 
 <img src="uploads/descartes.jpg" srcset="uploads/descartes.jpg" />
 
-<img src="uploads/memeofallmemes.jpg" srcset="uploads/memeofallmemes.jpg" /></center>
+<img src="uploads/memeofallmemes.jpg" srcset="uploads/memeofallmemes.jpg" />
