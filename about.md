@@ -8,10 +8,9 @@ published: true
 
 <img src="uploads/hammock.jpg" srcset="uploads/hammock.jpg" />
 
-<div class="page" markdown="1">
 
 <center>
-<img alt="" src="uploads/hammock.png" srcset="uploads/hammock.png" width=500 height=200 /></center>
+<img src="uploads/hammock.png" srcset="uploads/hammock.png" width=500 height=200 /></center>
 
 ## About 
 
@@ -21,4 +20,3 @@ I'm interested in what things mean and how they can mean them. My research focus
 
 When I'm not in class or doing research, you can find me playing board games, messing around in the kitchen, writing poetry, brewing big pots of tea, critiquing late-stage capitalism, curating my meme collection, thrift shopping, and baking banana bread on a semi-weekly basis.
 
-</div>
