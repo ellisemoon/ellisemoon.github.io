@@ -10,7 +10,7 @@ published: true
 
 <center>
   <!--<img src="uploads/hammock.png" srcset="uploads/hammock.png" width="500" height="200">-->
-  ![500x300](https://github.com/eclairemoon/eclairemoon.github.io/blob/master/uploads/hammock "Hammock")
+  ![500x300](https://github.com/eclairemoon/eclairemoon.github.io/blob/master/uploads/hammock.png "Hammock")
 </center>
 
 ## About 
