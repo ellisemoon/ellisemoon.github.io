@@ -10,7 +10,7 @@ published: true
 
 <center>
   <!--<img src="uploads/hammock.png" srcset="uploads/hammock.png" width="500" height="200">-->
-  ![500x300](uploads/hammock.png)
+  ![500x300](hammock "Hammock")
 </center>
 
 ## About 
