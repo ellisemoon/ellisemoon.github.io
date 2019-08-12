@@ -13,13 +13,6 @@
     </div>
     <div class="social">
       <ul>
-        {% if site.author.memes %}
-        <li>
-            <a href="https://eclairemoon.github.io/{{ site.author.memes }}" target="_blank" class="smaller">
-              <span class="icon-check_box"></span>
-            </a>
-        </li>
-        {% endif %}
         {% if site.author.youtube %}
         <li>
             <a href="https://youtube.com/{{ site.author.youtube }}" target="_blank" class="smaller">
@@ -62,6 +55,13 @@
             </a>
         </li>
         {% endif %}
+        {% if site.author.memes %}
+        <li>
+            <a href="https://eclairemoon.github.io/{{ site.author.memes }}" target="_blank" class="smaller">
+              <span class="icon-check_box"></span>
+            </a>
+        </li>
+        {% endif %}          
         <li>
             <a href="#" onclick="switchTheme()" title="Switch theme?">
               <span class="icon-invert_colors" id="theme-switcher"></span>
