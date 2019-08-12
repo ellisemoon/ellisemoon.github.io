@@ -8,6 +8,9 @@ published: true
 
 <div class="page" markdown="1">
 
+test
+![](hammock.png)
+
 <center>
   <img src="uploads/hammock.png" srcset="uploads/hammock.png" width="500" height="200"/>
   <img src="{{ page.images | relative_url }}hammock.png" srcset="{{ page.images | relative_url }}hammock.png" width="500" height="200"/>
