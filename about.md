@@ -10,7 +10,7 @@ published: true
 
 <center>
   <!--<img src="uploads/hammock.png" srcset="uploads/hammock.png" width="500" height="200">-->
-  ![Hammock](/uploads/hammock.png){:width="500" :height="200"}
+  ![Hammock](hammock.png){:width="500" :height="200"}
 </center>
 
 ## About 
