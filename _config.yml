@@ -25,6 +25,7 @@ blog:
 # Author info
 author:
   fullname                  : Ellise Moon
+  themeswitcher             : false
   rss                       : false # generate RSS feed and show it's icon in header
   mail                      : ellise.moon@rochester.edu # change to your e-mail address
   twitter                   : eclairemoon
