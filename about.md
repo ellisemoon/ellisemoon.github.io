@@ -6,7 +6,7 @@ images: uploads
 published: true
 ---
 
-<div class="page" markdown="1">
+<div class="page" markdown="0">
 
 <center>
   <img src="uploads/hammock.png" srcset="uploads/hammock.png" width="500" height="200">
