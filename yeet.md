@@ -12,7 +12,7 @@ published: true
 
 <img src="uploads/butishebald.jpg" srcset="uploads/butishebald.jpg" />
 
-<img src="uploads/counting.png" srcset="uploads/counting.png" />
+<img src="uploads/counting.jpg" srcset="uploads/counting.jpg" />
 
 <img src="uploads/descartes.jpg" srcset="uploads/descartes.jpg" />
 
