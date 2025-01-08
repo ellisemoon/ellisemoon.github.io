@@ -8,7 +8,7 @@ published: true
 
 <body>
 
-<align="left" img src="uploads/ellise_2025.jpg" height= "310" width="230" id=ellise/>
+<img align="left" src="uploads/ellise_2025.jpg" height= "310" width="230" id=ellise/>
 
 <p>I am currently working on a joint PhD in <b><a href="http://www.sas.rochester.edu/lin/">Linguistics</a></b> and <b><a href="https://www.sas.rochester.edu/phl/">Philosophy</a></b> at the <b><a href="http://www.rochester.edu/">University of Rochester</a></b>. I received my MA in General Linguistics from the University of Rochester in 2020 and my BA from <b><a href="http://www.montana.edu/">Montana State University</a></b> in English Literature, with a minor in French, in 2018.</p>
 
